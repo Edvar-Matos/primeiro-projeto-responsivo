@@ -21,6 +21,10 @@ header {
     margin-right: 32px;
 }
 
+.link-header:active {
+    color: greenyellow;
+}
+
 .button-header {
     border-radius: 6px;
     background: #6FBF44;
