@@ -36,6 +36,10 @@ header {
     cursor: pointer;
 }
 
+.button-header:active {
+    background-color: greenyellow;
+}
+
 .logo-image {
     margin: 163px 0 0 123px;
     display: inline-block;
