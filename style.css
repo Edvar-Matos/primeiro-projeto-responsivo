@@ -82,6 +82,10 @@ p {
     cursor: pointer;
 }
 
+.learn-more:active {
+    color: greenyellow;
+}
+
 @media screen and (max-width: 900px){
 
     header {
