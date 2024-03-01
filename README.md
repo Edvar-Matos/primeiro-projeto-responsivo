@@ -9,11 +9,12 @@
 <br>
 
      -HTML 
-     <br>
+     
      -CSS 
-     <br>
-     <br>
      
 <img src="https://github.com/Edvar-Matos/primeiro-projeto-responsivo/blob/main/img/desktop.png?raw=true"/>
 
 <h3>Aqui está a responsividade em ação:</h3>
+<br>
+
+<img src="https://github.com/Edvar-Matos/primeiro-projeto-responsivo/blob/main/img/mobile.png?raw=true"/>
